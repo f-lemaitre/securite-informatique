@@ -4,7 +4,7 @@ La sécurité informatique est une approche globale car elle doit prendre en com
 
 o Quels sont les enjeux de la non-répudiation ?
 
-La non-répudiation est l'assurance que l'auteur d'une action ne peut pas nier avoir effectué cette action. En sécurité informatique, la non-répudiation est un enjeu important car elle permet de garantir l'authenticité et l'intégrité des transactions électroniques. Si une personne ne peut pas nier avoir effectué une transaction, cela évite toute contestation ultérieure de la validité de cette transaction.
+La non-répudiation est l'assurance que l'auteur d'une action ne peut pas nier avoir effectué cette même action (par exemple, la réception d'un mail qui est l'exemple le plus connu). En sécurité informatique, la non-répudiation est un enjeu important car elle permet de garantir l'authenticité et l'intégrité des transactions électroniques. Si une personne ne peut pas nier avoir effectué une transaction, cela évite toute contestation ultérieure de la validité de cette transaction.
 
 o Expliquez la notion de risque juridique.
 
