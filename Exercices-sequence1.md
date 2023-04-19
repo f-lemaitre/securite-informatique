@@ -8,11 +8,15 @@ La non-répudiation est l'assurance que l'auteur d'une action ne peut pas nier a
 
 o Expliquez la notion de risque juridique.
 
-En sécurité informatique, le risque juridique concerne les risques liés à la conformité aux lois et réglementations en vigueur. Ces risques peuvent se manifester sous différentes formes comme, par exemple, la violation de la vie privée, la diffusion de données confidentielles ou encore l'atteinte aux droits d'auteur. Le non-respect des lois et réglementations en matière de sécurité informatique peut entraîner des sanctions financières, des amendes ou même des poursuites judiciaires.
+En sécurité informatique, le risque juridique concerne les risques liés à la conformité aux lois et réglementations en vigueur. Ces risques peuvent se manifester sous différentes formes comme par exemple:
+- la violation de la vie privée
+- la diffusion de données confidentielles
+- l'atteinte aux droits d'auteur
+Le non-respect des lois et réglementations en matière de sécurité informatique peut entraîner des sanctions financières, des amendes ou même des poursuites judiciaires.
 
 o En quoi le facteur humain est-il important en sécurité informatique ?
 
-Le facteur humain est important en sécurité informatique puisque les erreurs humaines sont souvent la cause de failles de sécurité. En effet, les utilisateurs peuvent involontairement compromettre la sécurité d'un système informatique en ne respectant pas les politiques de sécurité ou en ne suivant pas les procédures recommandées. Il est donc important de sensibiliser les utilisateurs aux bonnes pratiques de sécurité informatique, de leur fournir une formation adéquate et de mettre en place des contrôles pour réduire le risque d'erreurs humaines.
+Le facteur humain est important en sécurité informatique puisque les erreurs humaines sont souvent la cause de failles de sécurité. En effet, les utilisateurs peuvent involontairement compromettre la sécurité d'un système informatique en ne respectant pas les politiques de sécurité ou en ne suivant pas les procédures recommandées. Par conséquent, il est donc important de sensibiliser les utilisateurs aux bonnes pratiques de sécurité informatique, de leur fournir une formation adéquate et de mettre en place des contrôles pour réduire le risque d'erreurs humaines.
 
 o Qu'est-ce que le 2FA ?
 
