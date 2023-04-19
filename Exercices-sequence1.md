@@ -1,6 +1,6 @@
 o Pourquoi la sécurité informatique est-elle une approche globale ?
 
-La sécurité informatique est une approche globale car elle doit prendre en compte tous les aspects d'un système informatique, de la conception à l'utilisation en passant par la maintenance. Elle doit intégrer des mesures techniques, organisationnelles et humaines pour protéger les systèmes informatiques contre les menaces internes et externes. La sécurité informatique doit donc être considérée comme un élément fondamental de la stratégie globale de l'entreprise.
+La sécurité informatique est une approche globale car elle doit prendre en compte tous les aspects d'un système informatique, de la conception à l'utilisation en passant par la maintenance. Elle doit intégrer des mesures techniques, organisationnelles et humaines pour protéger les systèmes d'information contre les menaces internes et externes. La sécurité informatique doit donc être considérée comme un élément fondamental de la stratégie globale de l'entreprise.
 
 o Quels sont les enjeux de la non-répudiation ?
 
