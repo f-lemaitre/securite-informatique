@@ -20,7 +20,7 @@ Le facteur humain est important en sécurité informatique puisque les erreurs h
 
 o Qu'est-ce que le 2FA ?
 
-Le 2FA, c'est l'authentification double facteur ou aussi double authentifiaction. Cela permet de renforcer la sécurité d'un compte utilisateur via plusieurs méthodes possibles:
+Le 2FA, c'est l'authentification double facteur ou aussi double authentifiaction. Cela permet de renforcer la sécurité et vérifier un compte utilisateur via plusieurs méthodes possibles:
 - cela peut se faire via un envoi d'un code unique par SMS ou par mail, ce qui est le cas le plus courant
 - il peut s'agir d'un envoi de code utilisable pendant une période limitée
 - il peut s'agir d'une utilisation de code tournant avec validation sur un autre appareil
